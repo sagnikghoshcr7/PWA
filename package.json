@@ -14,7 +14,7 @@
     "complete",
     "tutorial"
   ],
-  "author": "Ajan Lal Shrestha",
+  "author": "Sagnik Ghosh",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.12.0"
